@@ -33,4 +33,4 @@ class LinearSearch {
 	}
 }
 
-// This code is contributed by Adutya Kumar(adityakumar129)
+// 
