@@ -36,4 +36,4 @@ class Main {
 	}
 }
 
-// This code is contributed by Sania Kumari Gupta
+// This code is contributed 
