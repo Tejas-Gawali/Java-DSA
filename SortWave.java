@@ -35,4 +35,4 @@ class SortWave
 			System.out.print(i + " ");
 	}
 }
-/*This code is contributed by Rajat Mishra*/
+/*This code is contributed
