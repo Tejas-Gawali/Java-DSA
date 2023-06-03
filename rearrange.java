@@ -59,4 +59,4 @@ class Alternate {
 		printArray(arr,n);
 	}
 }
-/*This code is contributed by Devesh Agrawal*/
+/*This code is contributed
