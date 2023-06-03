@@ -34,4 +34,4 @@ class num {
 	}
 }
 
-// This code is contributed by Aditya Kumar (adityakumar129)
+// This code is contributed
