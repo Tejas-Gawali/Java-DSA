@@ -74,4 +74,4 @@ class Profit {
 						+ maxProfit(price, n));
 	}
 
-} /* This code is contributed by Rajat Mishra */
+} 
