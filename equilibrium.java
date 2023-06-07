@@ -43,4 +43,4 @@ class EquilibriumIndex {
 	}
 }
 
-// This code has been contributed by Mayank Jaiswal
+// 
